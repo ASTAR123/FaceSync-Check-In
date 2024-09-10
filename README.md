@@ -1,6 +1,6 @@
 # FaceSync-Check-In(Real-time-check-in-system-based-on-face-recognition)
 Real-time check-in system based on face recognition
-File description:
+# File description:
 
 Facedata [Folders]----  source of dataset(Data set files cannot be disclosed)
 
